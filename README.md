@@ -10,6 +10,14 @@ Praticar o fluxo de contribuição entre diferentes contas:
 - Code Review
 - Merge
 
+## 📂 Estrutura
+dicas-github/
+├── README.md
+└── dicas/
+├── comandos-basicos.md
+├── gitflow.md
+└── boas-praticas.md
+
 ## 🔧 Como contribuir
 1. Faça um **fork** deste repositório.
 2. Crie uma nova **branch**:  
